@@ -9,7 +9,7 @@ https://m.do.co/c/25a7f93236fc
 2. create server Debian
 
 3. upload file to server<br>
-wget https://raw.githubusercontent.com/hensly/socks5/master/proxy.py
+wget https://raw.githubusercontent.com/barabulya123/weloyposan/refs/heads/main/proxy.py
 
 4. run <br>
 python proxy.py
